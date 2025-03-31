@@ -28,3 +28,22 @@ A Python implementation of International Draughts (8x8 Checkers) with an AI oppo
    ```bash
    git clone https://github.com/prateekbunker/AI_Project.git
    cd AI_Project
+
+
+2. Install the required packages:
+
+   pip install pygame numpy
+
+## How to Play
+
+Run the game:
+python main.py
+Game controls:
+
+Click on your black piece to select it (will highlight in green)
+
+Valid moves will highlight in blue
+
+Click on a blue square to move there
+
+The AI (red pieces) will automatically make its move after yours
