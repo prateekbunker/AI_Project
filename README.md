@@ -40,10 +40,10 @@ Run the game:
 python main.py
 Game controls:
 
-Click on your black piece to select it (will highlight in green)
+Click on your red piece to select it (will highlight in green)
 
 Valid moves will highlight in blue
 
 Click on a blue square to move there
 
-The AI (red pieces) will automatically make its move after yours
+The AI (white pieces) will automatically make its move after yours
