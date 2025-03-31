@@ -27,4 +27,4 @@ A Python implementation of International Draughts (8x8 Checkers) with an AI oppo
 1. Clone the repository:
    ```bash
    git clone https://github.com/prateekbunker/AI_Project.git
-   cd checkers-ai
+   cd AI_Project
